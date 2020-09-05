@@ -1,0 +1,9 @@
+.searchPage__info {
+  padding: 20px;
+}
+
+.searchPage__info > p {
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
